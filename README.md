@@ -1,2 +1,2 @@
 # hello-world
-Helping me learn more about git
+Helping me learn more about git. While I've used other source control applications, this is all new to me.
